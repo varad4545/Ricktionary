@@ -61,7 +61,7 @@
     <dependencies>
         <dependency>
             <groupId>com.github.TeamRocketBalleBalle.Ricktionary.Resources</groupId>
-            <artifactId>Resources</artifactId>
+            <artifactId>resources</artifactId>
             <version>0.2.0-BETA</version>
         </dependency>
         <dependency>
