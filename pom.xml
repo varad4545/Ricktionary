@@ -105,4 +105,11 @@
             </plugins>
         </pluginManagement>
     </build>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>Github Packages</name>
+            <url>https://maven.pkg.github.com/RoguedBear/Ricktionary</url>
+        </repository>
+    </distributionManagement>
 </project>
