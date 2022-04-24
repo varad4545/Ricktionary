@@ -14,4 +14,7 @@ pipeline {
             }
         }
     }
+    tools{
+        maven 'maven-system'
+    }
 }
