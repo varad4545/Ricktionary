@@ -16,5 +16,6 @@ pipeline {
     }
     tools{
         maven 'maven-system'
+        jdk 'jdk-system'
     }
 }
